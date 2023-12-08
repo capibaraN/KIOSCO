@@ -1,0 +1,177 @@
+* {
+  overflow: hidden;
+}
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+nav {
+  background-color: #294e7a;
+}
+.card-group {
+  background-color: #294e7a;
+}
+.button-nacionales {
+  background-color: #ffffff; /* Color de fondo */
+  color: #000000; /* Color del texto */
+  padding: 10px 10px; /* Espaciado interno */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cambia el cursor al pasar el ratón */
+  font-size: 30px; /* Tamaño del texto */
+  text-align: center; /* Alineación del texto */
+}
+.button-nacionales:hover {
+  background-color: #294e7a; /* Cambia el color de fondo al pasar el ratón */
+}
+.button-internacionales {
+  background-color: #ffffff; /* Color de fondo */
+  color: #000000; /* Color del texto */
+  padding: 10px 10px; /* Espaciado interno */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cambia el cursor al pasar el ratón */
+  font-size: 30px; /* Tamaño del texto */
+  text-align: center; /* Alineación del texto */
+}
+.button-internacionales:hover {
+  background-color: #294e7a; /* Cambia el color de fondo al pasar el ratón */
+}
+.button-kiosco {
+  background-color: #ffffff; /* Color de fondo */
+  color: #000000; /* Color del texto */
+  padding: 10px 10px; /* Espaciado interno */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cambia el cursor al pasar el ratón */
+  font-size: 30px; /* Tamaño del texto */
+  text-align: center; /* Alineación del texto */
+}
+.button-kiosco:hover {
+  background-color: #294e7a; /* Cambia el color de fondo al pasar el ratón */
+}
+.video1 {
+  width: 800px;
+  height: 550px;
+  margin: auto;
+}
+nav img {
+  width: 150px; /* Tamaño de la imagen */
+  height: 70px; /* Tamaño de la imagen */
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+img {
+  width: 100px;
+  height: 300px;
+  padding: 10px;
+  margin: 0px;
+}
+.card-body {
+  padding: 5px 5px; /* Espaciado interno */
+  background-color: #ffffff;
+}
+.card {
+  padding: 30px 30px; /* Espaciado interno */
+}
+.button-adelante:hover {
+  background-color: #ffffff; /* Cambia el color de fondo al pasar el ratón */
+}
+.button-adelante {
+  background-color: #fdfdfd; /* Color de fondo */
+  color: #ffffff; /* Color del texto */
+  padding: 10px 10px; /* Espaciado interno */
+  margin: 5px;
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cambia el cursor al pasar el ratón */
+  font-size: 16px; /* Tamaño del texto */
+  text-align: center; /* Alineación del texto */
+}
+.button-atras:hover {
+  background-color: #ffffff; /* Cambia el color de fondo al pasar el ratón */
+}
+.button-atras {
+  background-color: #fdfdfd; /* Color de fondo */
+  color: #fff; /* Color del texto */
+  padding: 10px 10px; /* Espaciado interno */
+  margin: 5px;
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cambia el cursor al pasar el ratón */
+  font-size: 16px; /* Tamaño del texto */
+  text-align: center; /* Alineación del texto */
+}
+.button-cerrar:hover {
+  background-color: #ffffff; /* Cambia el color de fondo al pasar el ratón */
+}
+.button-cerrar {
+  background-color: #fdfdfd; /* Color de fondo */
+  color: #fff; /* Color del texto */
+  padding: 10px 10px; /* Espaciado interno */
+  margin: 5px;
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cambia el cursor al pasar el ratón */
+  font-size: 16px; /* Tamaño del texto */
+  text-align: center; /* Alineación del texto */
+}
+.material-symbols-outlined {
+  color: #fff; /* Color del texto */
+  font-size: 70px !important;
+}
+.material-symbols-outlined_ {
+  color: #000000; /* Color del texto */
+  font-size: 50px !important;
+}
+
+h1 {
+  font-size: 20px;
+  margin: 1px; 
+  
+}
+p{
+  font-size: 34px;
+  margin: 0px;
+padding: 0px;
+}
+
+h3 {
+  font-size: 43px;
+  margin: 10px;
+}
+h2 {
+  font-size: 34px;
+  margin: 18px;
+  padding: 0px;
+}
+h4 {
+  color: #080ec9;
+  font-size: 28px;
+  margin: 0px;
+  padding: 0px;
+}
+h5 {
+  margin: 10px;
+  font-size: 35px;
+}
+iframe {
+  width: 100%;
+  height: 100%;
+  border: none; /* Quita el borde del iframe */
+}
+.video1 {
+  width: 800px; /* Tamaño de la imagen */
+  height: 450px; /* Tamaño de la imagen */
+}
+
+.btn-close {
+  font-size: 40px;
+}
+.img-fluid {
+  width: 200px; /* Tamaño de la imagen */
+  height: 200px;
+}
